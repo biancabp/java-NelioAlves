@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/estrutura-condicional/estrutura-condicional.iml" filepath="$PROJECT_DIR$/estrutura-condicional/estrutura-condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-sequencial/estrutura-sequencial.iml" filepath="$PROJECT_DIR$/estrutura-sequencial/estrutura-sequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturas-repeticao/estruturas-repeticao.iml" filepath="$PROJECT_DIR$/estruturas-repeticao/estruturas-repeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-inicio/java-inicio.iml" filepath="$PROJECT_DIR$/java-inicio/java-inicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo/poo.iml" filepath="$PROJECT_DIR$/poo/poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo-intro/poo-intro.iml" filepath="$PROJECT_DIR$/poo-intro/poo-intro.iml" />
+    </modules>
+  </component>
+</project>
