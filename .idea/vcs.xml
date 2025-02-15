@@ -5,7 +5,6 @@
     <mapping directory="$PROJECT_DIR$/estrutura-condicional" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/estrutura-sequencial" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/estruturas-repeticao" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/java-inicio" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/poo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/poo-intro" vcs="Git" />
   </component>
