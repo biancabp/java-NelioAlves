@@ -16,8 +16,7 @@ public class Conta {
         this.titular = titular;
     }
 
-    public int getId() {
-        return id;
+    public int getId() {        return id;
     }
 
     public void setId(int id) {
