@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4cec5754-bc86-4ccf-b1b5-cd09bdc10fbd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../exercicio-4/src/application/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../exercicio-4/src/application/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/exercicio-5/application/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Exercicio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/application/Exercicio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-6/exercicio-6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercicio-7/exercicio-7.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
     "Application.Exercicio.executor": "Run",
     "Application.ExercicioArrayList.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
